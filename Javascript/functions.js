@@ -1,4 +1,8 @@
 function changeColor(){
 document.getElementById("palabrita").style.backgroundColor="green";
-document.getElementById("palabrita").style.color="white";
+document.getElementById("palabrita").textContent="Adios";
+}
+
+function sendMessage(){
+alert("Saludo!");
 }
