@@ -165,3 +165,18 @@ color: cian;
 	background: #2EBC99;
 }
 
+div {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+img.img_gelatina {
+    width: 300px;
+    height: auto;
+}
+
+h1.Hola1{
+margin: 2;
+    font-family: Agency FB;
+}
