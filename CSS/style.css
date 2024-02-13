@@ -164,19 +164,36 @@ color: cian;
 .form-style-6 input[type="button"]:hover{
 	background: #2EBC99;
 }
-
-div {
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
+div.container{
+  height: 500px;
+  width: 100%;
+  background-color:white;
+  display: flex;
+  justify-content: space-between;
+}
+div.div-1{
+  height: 175px;
+  background-color: red;
+  flex: 1;
+}
+div.div-2{
+  height: 175px;
+  background-color: green;
+  flex: 1;
+  margin-left:25px;
+}
+div.div-3{
+  height: 175px;
+  background-color: yellow;
+  flex: 1;
+  margin-left:25px;
 }
 
-img.img_gelatina {
-    width: 300px;
-    height: auto;
-}
+img.img_gelatina{
+  width:350px;
+height:350px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 
-h1.Hola1{
-margin: 2;
-    font-family: Agency FB;
 }
