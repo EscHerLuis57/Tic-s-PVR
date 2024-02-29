@@ -197,3 +197,43 @@ height:350px;
   margin-right: auto;
 
 }
+
+aside{
+	width: 40%;
+	padding-left: 0.5rem;
+	margin-left: 0.5rem;
+	float: right;
+	box-shadow: inset 5px 0 5px -5px #29627e;
+	font-style: italic;
+	color: #29627e;
+}
+
+div.divisioncita{
+	border: 10px groove rgb(86, 109, 2);
+	padding-bottom: 8px;
+	padding-top: 6px;
+	padding-left: 75px;
+	padding-right: 6px;
+	margin-top: 9px;
+	margin-bottom: 18px;
+	margin-left: 44px;
+}
+
+div.divisioncita2{
+	border: 8px solid beige;
+	padding: 40px 300px 30px 300px;
+	margin: 60px 250px 60px 250px;
+	font-family: Georgia;
+	background-color: #29627e;
+}
+
+
+
+
+
+
+
+
+
+
+
