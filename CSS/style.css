@@ -227,8 +227,24 @@ div.divisioncita2{
 	background-color: #29627e;
 }
 
-
-
+div.ejemplo {
+	background-color: #f2f2f2; /* Color de fondo */
+	border: 2px solid #333; /* Borde con grosor y color */
+	padding: 10px; /* Espacio interno alrededor del contenido */
+	width: 500px; /* Ancho del div */
+	height: 300px; /* Altura del div */
+	margin: 20px auto; /* Margen para centrarlo horizontalmente */
+	box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.2); /* Sombra */
+	text-align: center; /* Alineación del texto dentro del div */
+	font-family: Arial, sans-serif; /* Fuente del texto */
+	font-size: 16px; /* Tamaño de fuente */
+	color: #555; /* Color del texto */
+  }
+  
+img.ejemplo{
+	object-fit: fill;
+	
+}
 
 
 
