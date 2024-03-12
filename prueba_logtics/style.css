@@ -91,7 +91,7 @@ button.botoniniciar{
 }
 
 .button {
-    background-color: #607def;
+    background-color: #3559eb;
     width: 150px;
     color: white;
     font-size: 16px;
@@ -102,7 +102,7 @@ button.botoniniciar{
 }
 
 .btninit {
-    background-color: #607def;
+    background-color: #3559eb;
     border: none;
     margin: 25px 0;
 }
@@ -166,11 +166,11 @@ h1 {
 }
 
 .btncrear {
+    color:white;
     background-color: transparent;
     border: 2px solid #ffffff;
     margin-top: 1rem;
-    border-radius: 6px;.
-    color: white;
+    border-radius: 5px;
 }
 
 .button2:hover {
