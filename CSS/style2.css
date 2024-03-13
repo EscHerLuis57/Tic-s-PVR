@@ -1,0 +1,15 @@
+.caret {
+	filter: drop-shadow(10px 5px 5px red);
+  }
+.boxshadow {
+    box-shadow: 3px 3px 3px blue;
+    margin: 30px;
+}
+.hoverefect {
+     background-color: rgb(25, 154, 230);
+     font-size: 30px;
+}
+.focusselector{
+    color: rgb(2, 39, 71);
+    background-color: lightblue;
+  }
