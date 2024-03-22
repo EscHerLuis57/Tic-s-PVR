@@ -30,13 +30,17 @@ body{
 
 .c1{
     background-color: lightblue;
-    order: 1;
+    order: 2;
+    flex-grow: 1;
+    flex-basis: 50%;
 }
 .c2{
     background-color: lightcoral;
-    order: 2;
+    order: 3;
+    flex-grow:1;
 }
 .c3{
     background-color: lightgreen;
-    order: 3;
+    order: 1;
+    flex-grow: 1;
 }
